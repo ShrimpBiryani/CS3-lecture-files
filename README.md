@@ -1,2 +1,4 @@
-# CS3-lecture-files for Divakar Shenoy
-CS3 Lecture Files
+\#CS3 Lecture Files
+
+Divakar Shenoy 
+
